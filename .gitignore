@@ -39,3 +39,4 @@ lerna-debug.log*
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+frontend/frontend/src/components/home.jsx
